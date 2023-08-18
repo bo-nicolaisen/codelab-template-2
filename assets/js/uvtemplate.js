@@ -8,7 +8,7 @@ generateMenu(mySubjects, myNavTag);
 
 
 function generateMenu(menuSubjects, parentTag) {
-    console.log('creating menu in: ' + parentTag.id);
+    //console.log('creating menu in: ' + parentTag.id);
 
     parentTag.innerHTML = "";
 
