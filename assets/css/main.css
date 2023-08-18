@@ -24,6 +24,11 @@ h1 {
   font-size: 3rem;
 }
 
+pre {
+  width: 60%;
+  margin: 2%;
+}
+
 .mainDescription {
   margin-bottom: 2em;
   margin-top: 2em;
